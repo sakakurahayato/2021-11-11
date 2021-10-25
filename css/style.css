@@ -1,0 +1,17 @@
+.card{
+  display: flex;
+  width: 760px;
+  box-shadow: 0 0 6px #eeeeee;
+}
+.card-img{
+
+}
+.card-title{
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+.card-tag{
+  display: flex;
+  font-size: 14px;
+}
