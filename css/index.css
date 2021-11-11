@@ -432,17 +432,17 @@
     height: auto;
   }
   .footer-wrap{
-    display:block;
+    display: block;
     text-align: center;
-    font-size: 16px;
+    /* font-size: 16px; */
   }
   .footer-list{
     display: block;
     margin-top: 12px;
   }
   .footer-list-item{
-    margin-top: 12px;
+    margin-top: 16px;
     border: none;
-
+    padding-top: 4px;
   }
 }

@@ -141,6 +141,7 @@
   padding-right: 20px;
 }
 .service-content-text{
+  width: 60%;
 }
 .service-title{
   font-weight: bold;
